@@ -19,4 +19,4 @@ Allow: /
 User-agent: Yeti
 Allow: /
 
-Sitemap: https://내도메인.com/sitemap.xml
+Sitemap: https://kasunyoung.netlify.app/sitemap.xml
